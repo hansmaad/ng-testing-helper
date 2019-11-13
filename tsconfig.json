@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es2015",
+    "module": "esnext",
+    "lib": [
+        "es2018",
+        "dom"
+    ],
+    "types": [
+        "jasmine",
+        "node"
+    ],
+    "typeRoots": [
+        "node_modules/@types"
+    ],
+    "downlevelIteration": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "sourceMap": true,
+  },
+  "exclude": [
+    "./dist"
+  ],
+}
