@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@angular/common": "~8.2.4",
-    "@angular/core": "~8.2.4",
+    "@angular/core": "~11.0.5",
     "@angular/platform-browser": "~8.2.4",
     "@angular/router": "~8.2.4",
     "@types/jasmine": "~3.3.8",
